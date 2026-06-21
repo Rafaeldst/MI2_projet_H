@@ -83,7 +83,7 @@ else:
     print(f"Hauteur du mur (V0)  = {V0}")
     print(f"Épaisseur du mur (a) = {largeur_a:.1f}")
     print(f"Vitesse de groupe    = {v_groupe:.2f}")
-    print(f"τ théorique (a/v_g)  = {T0:.4f} s")
+    print(f"τ théorique (a/v_g)  = {T0:.4f}")
     print(f"Entrée  (x = {a0:.1f}) à t = {T_entree:.4f}")
     print(f"Sortie  (x = {a0 + largeur_a:.1f}) à t = {T_sortie:.4f}")
     print(f"--> Temps de traversée (T_num) = {Tnum:.4f}")
