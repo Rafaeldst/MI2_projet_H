@@ -87,5 +87,5 @@ else:
     print(f"Entrée  (x = {a0:.1f}) à t = {T_entree:.4f}")
     print(f"Sortie  (x = {a0 + largeur_a:.1f}) à t = {T_sortie:.4f}")
     print(f"--> Temps de traversée (T_num) = {Tnum:.4f}")
-    print(f"--> Écart relatif = {erreur_rel:.4f}")
+    print(f"--> Erreur relatif = {erreur_rel:.4f}")
     print("==========================================\n")
